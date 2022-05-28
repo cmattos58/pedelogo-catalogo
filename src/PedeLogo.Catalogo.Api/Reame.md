@@ -1,0 +1,1 @@
+cmattos@CMATTOS_1:/mnt/d/pedelogo-catalogo/src/PedeLogo.Catalogo.Api$  docker build -t cmattos59/pedelogo-catalogo:v1 -f /mnt/d/pedelogo-catalogo/src/PedeLogo.Catalogo.Api/Dockerfile /mnt/d/pedelogo-catalogo/
